@@ -17,7 +17,7 @@ These results come from professional projects; their production source code belo
 
 | Project | What it shows |
 | --- | --- |
-| [IntakeMatrix](https://github.com/shahzaibdev1/intakematrix) · [Live site](https://intakematrix.vercel.app) | Next.js and TypeScript web application |
+| [QR Code Scanner and Generator](https://github.com/shahzaibdev1/qr_code_scanner) | Flutter scan, batch scan, generation, and history flows |
 | [HJ Security Solutions](https://github.com/shahzaibdev1/hj-security-solutions) · [Live site](https://hj-security-solutions.vercel.app) | Responsive Next.js and TypeScript site |
 | [Translation app](https://github.com/shahzaibdev1/translation-app) | Flutter mobile application |
 
