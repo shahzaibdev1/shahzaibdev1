@@ -13,14 +13,10 @@ I build production software from database schema and API design through to the i
 
 These results come from professional projects; their production source code belongs to the companies and clients involved.
 
-## Public work
+## Engineering focus
 
-| Project | What it shows |
-| --- | --- |
-| [QR Code Scanner and Generator](https://github.com/shahzaibdev1/qr_code_scanner) | Flutter scan, batch scan, generation, and history flows |
-| [HJ Security Solutions](https://github.com/shahzaibdev1/hj-security-solutions) · [Live site](https://hj-security-solutions.vercel.app) | Responsive Next.js and TypeScript site |
-| [Translation app](https://github.com/shahzaibdev1/translation-app) | Flutter mobile application |
-
-**Core tools:** TypeScript, JavaScript, Node.js, NestJS, Express, Python, FastAPI, Django, React, Next.js, GraphQL, PostgreSQL, MySQL, MongoDB, Redis, Docker, AWS, GitHub Actions.
+- **Backend:** Node.js, NestJS, Express, Python, FastAPI, GraphQL, REST APIs, event-driven integrations
+- **Data and infrastructure:** PostgreSQL, MySQL, MongoDB, Redis, Docker, AWS, GitHub Actions
+- **Frontend:** React, Next.js, TypeScript, responsive interfaces
 
 I am interested in senior full-stack and backend roles with international teams. [Connect with me on LinkedIn](https://www.linkedin.com/in/shahzaib-umaar/).
